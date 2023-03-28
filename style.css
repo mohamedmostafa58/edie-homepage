@@ -455,12 +455,7 @@ section .ideas{
     margin-right: calc(14.27vw - 44.8px);
 
 }
-.teams .imgs:hover{
-    background-color: rgba(0, 0, 0,.1);
-}
-.teams .imgs img:hover{
-    background-color: rgba(0, 0, 0,0);
-}
+
 @media(max-width:1045px){
     .teams{
        flex-direction: column;
